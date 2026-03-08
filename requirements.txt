@@ -1,0 +1,14 @@
+# EDA Workflow Dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Optional: For interactive plots
+# plotly>=5.0.0
+
+# Optional: For Jupyter notebooks
+# jupyter>=1.0.0
+# notebook>=6.0.0
